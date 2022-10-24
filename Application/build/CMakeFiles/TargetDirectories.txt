@@ -1,0 +1,3 @@
+/home/lex/Desktop/Application/build/CMakeFiles/Application.dir
+/home/lex/Desktop/Application/build/CMakeFiles/edit_cache.dir
+/home/lex/Desktop/Application/build/CMakeFiles/rebuild_cache.dir
