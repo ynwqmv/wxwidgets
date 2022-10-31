@@ -1,25 +1,17 @@
-## https://docs.wxwidgets.org/3.0/overview_helloworld.html
+# Tetris Game
 
-# Main
-
-```cpp
-class MyApp: public wxApp
-{
-public:
-    virtual bool OnInit();
-};
-
-```
-
+## Used:
+`CXX 11`  
+`wxWidgets 3.0.1`  
+`Makefile`  
 ____
- 
- 
-```cpp
-bool MyApp::OnInit()
-{
-    MyFrame *frame = new MyFrame("UNIX Monitor (Beta)", wxPoint(50, 50), wxSize(450, 340) );
-    frame->Show( true );
-    return true;
-}
+
+## Build | Linux
+#### Makefile
+```bash
+make
+./Tetris
 
 ```
+
+
